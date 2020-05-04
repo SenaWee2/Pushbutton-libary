@@ -1,1 +1,6 @@
+button	KEYWORD1
+work	KEYWORD2
 
+//keywords are used to highlight thewords in the arduino sketch
+//KEYWORD1 are classes wchich are highlighted in red
+//KEYWORD2 are other important functions 
